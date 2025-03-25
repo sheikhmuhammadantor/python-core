@@ -25,3 +25,9 @@ print(5 / 5);
 print(5 - 5); 
 print(5 % 5); 
 print(5 ** 3)
+
+"""
+This Is A Multi-Line Comment
+This Is A Multi-Line Comment
+This Is A Multi-Line Comment
+"""
